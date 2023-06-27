@@ -25,7 +25,7 @@ zlabel([Func_name,'( x_1 , x_2 )']);
 %% Optimization algorithm associated parameter
 params.size=100;            % Particle Size
 params.max_iter=1000;       % Max iteration
-params.termination=1000;	% Termination criteria
+params.termination=1000;    % Termination criteria
 params.total_run=1;         % Number of total program run
 
 % Objective-function's paramter
