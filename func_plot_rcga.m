@@ -45,7 +45,7 @@ for i=1:L
     end
 end
 
-surfc(x,y,f,'LineStyle','none');
+surfc(x,y,f,'LineStyle','none');   % Plotting
 
 end
 
